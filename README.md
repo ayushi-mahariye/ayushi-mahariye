@@ -31,4 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-mahariye&" alt="ayushi-mahariye" /></p>
 
-![snake gif](https://github.com/ayushi-mahariye/ayushi-mahariye/blob/output/github-contribution-grid-snake.svg)
