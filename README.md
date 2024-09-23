@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **ayushimahariye449@gmail.com**
 
+- My Portifolio - ('https://ayushi-portifolio.netlify.app/')
+
 - 📄 Know about my experiences [('https://drive.google.com/file/d/1iYxOoP4HYqcd3AX7QbTOABz9-OTJrI0G/view?usp=drive_link')
 
 <h3 align="left">Connect with me:</h3>
