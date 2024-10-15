@@ -17,7 +17,7 @@
 
 - My Portifolio - ('https://ayushi-portifolio.netlify.app/')
 
-- 📄 Know about my experiences [('https://drive.google.com/file/d/1JJ_AidTbxeWRfVCqFlU2leyYrj0RU24j/view?usp=sharing')
+- 📄 Know about my experiences (['https://drive.google.com/file/d/1q16vGjQt5RSg7yGyd_sgohAicgWqbGnA/view?usp=sharing'])
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi-mahariye" alt="ayushi-mahariye" /></a> </p>
 
 
