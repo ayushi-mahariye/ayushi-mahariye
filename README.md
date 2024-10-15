@@ -18,10 +18,16 @@
 - My Portifolio - ('https://ayushi-portifolio.netlify.app/')
 
 - 📄 Know about my experiences [('https://drive.google.com/file/d/1iYxOoP4HYqcd3AX7QbTOABz9-OTJrI0G/view?usp=drive_link')
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi-mahariye" alt="ayushi-mahariye" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayushi-mahariye-86927b324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-mahariye-86927b324/" height="30" width="40" /></a>
+<a href="https://kaggle.com/ayushimahariye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayushimahariye" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayushimahariye41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushimahariye41" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ludcucr6x3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ludcucr6x3/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,4 +38,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushi-mahariye&show_icons=true&locale=en" alt="ayushi-mahariye" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-mahariye&" alt="ayushi-mahariye" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi-mahariye&show_icons=true&locale=en&layout=compact" alt="ayushi-mahariye" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushi-mahariye&show_icons=true&locale=en" alt="ayushi-mahariye" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-mahariye&" alt="ayushi-mahariye" /></p>
+
 
